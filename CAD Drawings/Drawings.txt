@@ -1,1 +1,3 @@
-All the drawings and models are made according to the measurements of NEMA 17 Stepper Motors and a standard Runik's cube.
+All the drawings and models are made according to the measurements of NEMA 17 Stepper Motors and a standard Rubik's cube.
+
+All the assembly is to be done as shown in figure. (Use of Glue gun is suggested rather than any other adhesive)
