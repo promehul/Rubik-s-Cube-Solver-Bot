@@ -1,6 +1,6 @@
 # Rubik's-Cube-Solver-Bot
 
-These are all the source code and design files for our Rubik's Cube Solver Bot that uses the Thistlethwaite.
+These are all the source code and design files for our Rubik's Cube Solver Bot that uses the Thistlethwaite Algorithm to solve the Rubik's cube from any scrambled state back to the solved unscrambled state.
 
 Primary files include:
 
