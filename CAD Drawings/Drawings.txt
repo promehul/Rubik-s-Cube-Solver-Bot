@@ -1,0 +1,1 @@
+All the drawings and models are made according to the measurements of NEMA 17 Stepper Motors and a standard Runik's cube.
