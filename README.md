@@ -8,3 +8,4 @@ Primary files include:
 * Arduino sketch for controlling stepper motor using L298N Motor Drivers
 * Code for the solving application
 * Various other stuff(like testcodes and other driver codes)
+hacktoberfest.
